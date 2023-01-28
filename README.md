@@ -1,2 +1,2 @@
 # RandomCubes
-Cube simulator
+Cube spawner
